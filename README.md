@@ -17,7 +17,15 @@ Frameworks & Tools: React, Node.js, .NET
 Graphic design, quilting, and event planning 🎨 
 
 ##
-It’s wonderful that you stopped by! 
+
+### Psst, want in on a secret? 
+There's even more development to see!  
+If things in here seem sparse, check out @ratcliffm to see some of my undergrad coursework
+
+##
+
+### Well, I'll leave you to it
+It’s wonderful that you stopped by!  
 If you’ve got an exciting project or just want to chat, feel free to reach out.
 
 <!---
